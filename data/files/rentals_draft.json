@@ -1,0 +1,175 @@
+{
+    "2607": {
+        "label": null,
+        "address": "1140 Ramsey View Court",
+        "city": "Sudbury",
+        "offerings": [
+            {
+                "beds": "2",
+                "baths": "1",
+                "area": "850",
+                "price": "1899"
+            },
+            {
+                "beds": "2",
+                "baths": "1",
+                "area": "850",
+                "price": "1899"
+            }
+        ],
+        "utilities": [
+            "heat",
+            "water"
+        ],
+        "features_amenities": [
+            "Elevators",
+            "Balconies",
+            "Outdoor parking",
+            "Laundry facilities",
+            "Fridge",
+            "Public transit",
+            "Stove",
+            "Shopping nearby",
+            "Parks nearby",
+            "Dishwasher available",
+            "Schools nearby",
+            "City views",
+            "Keyless entry",
+            "Pet Friendly",
+            "",
+            ""
+        ],
+        "pet_policy": [
+            ""
+        ],
+        "location_score": {
+            "ovr_score": "56",
+            "health": "3",
+            "grocery": "3",
+            "fitness": "1",
+            "park": "9",
+            "high": "7",
+            "transit": "9",
+            "shop": "4",
+            "food": "4",
+            "coffee": "4",
+            "childcare": "9",
+            "elem": "9",
+            "entertainment": "5"
+        }
+    },
+    "26470": {
+        "label": null,
+        "address": "634 Lasalle Boulevard",
+        "city": "Sudbury",
+        "offerings": [
+            {
+                "beds": "1",
+                "baths": "1",
+                "area": "750",
+                "price": "1300"
+            }
+        ],
+        "utilities": [
+            "heat",
+            "water",
+            "electricity"
+        ],
+        "features_amenities": [
+            "Carpet",
+            "Elevator",
+            "Balconies",
+            "Laundry facilities",
+            "Fridge",
+            "Storage room",
+            "Alarm system",
+            "No Smoking allowed",
+            "Unfurnished",
+            "Hardwood",
+            "Parking",
+            "Electric Stove",
+            "Near College/University",
+            "Near Shopping Center",
+            "",
+            ""
+        ],
+        "pet_policy": [
+            ""
+        ],
+        "location_score": {
+            "ovr_score": "46",
+            "health": "3",
+            "grocery": "5",
+            "fitness": "1",
+            "park": "9",
+            "high": "3",
+            "transit": "9",
+            "shop": "6",
+            "food": "4",
+            "coffee": "2",
+            "childcare": "4",
+            "elem": "8",
+            "entertainment": "1"
+        }
+    },
+    "33975": {
+        "label": null,
+        "address": "889 Chestnut Crescent",
+        "city": "Sudbury",
+        "offerings": [
+            {
+                "beds": "2",
+                "baths": "1.5",
+                "area": "1600",
+                "price": "2399"
+            }
+        ],
+        "utilities": [],
+        "features_amenities": [
+            "Outdoor parking",
+            "Carpeted floors",
+            "Dryer in suite",
+            "Microwave",
+            "Fridge",
+            "Public transit",
+            "Stove",
+            "Shopping nearby",
+            "Washer in suite",
+            "Parks nearby",
+            "Dishwasher available",
+            "Schools nearby",
+            "Fitness room",
+            "Sauna",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "pet_policy": [
+            ""
+        ],
+        "location_score": {
+            "ovr_score": "46",
+            "health": "4",
+            "grocery": "5",
+            "fitness": "1",
+            "park": "6",
+            "high": "2",
+            "transit": "7",
+            "shop": "7",
+            "food": "5",
+            "coffee": "2",
+            "childcare": "8",
+            "elem": "7",
+            "entertainment": "1"
+        }
+    }
+}
